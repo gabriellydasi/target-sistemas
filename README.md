@@ -42,7 +42,7 @@ Descubra a lógica e complete o próximo elemento:
 * c) 0, 1, 4, 9, 16, 25, 36, ____
 * d) 4, 16, 36, 64, ____
 * e) 1, 1, 2, 3, 5, 8, ____
-* f) 2,10, 12, 16, 17, 18, 19, ____
+* f) 2, 10, 12, 16, 17, 18, 19, ____
 
 Solução:  
 * a) Sequência de números ímpares. Próximo elemento: 9
@@ -50,7 +50,7 @@ Solução:
 * c) Sequência de números quadrados. Próximo elemento: 7^2 = 49
 * d) Sequência de quadrados de números pares. Próximo elemento: 10^2 = 100
 * e) Sequência de Fibonacci. Próximo elemento: 8 + 5 = 13
-* f) Próximo elemento: 20
+* f) Números naturais iniciados pela letra D. Próximo elemento: 200
 
 ### Questão 5
 Você está em uma sala com três interruptores, cada um conectado a uma lâmpada em salas diferentes. Você não pode ver as lâmpadas da sala em que está, mas pode ligar e desligar os interruptores quantas vezes quiser. Seu objetivo é descobrir qual interruptor controla qual lâmpada. Como você faria para descobrir, usando apenas duas idas até uma das salas das lâmpadas, qual interruptor controla cada lâmpada?  
